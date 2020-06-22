@@ -1,0 +1,17 @@
+.site-nav {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  height: 80px;
+  display: flex;
+  padding-top: 32px;
+  padding-bottom: 32px;
+
+  .item {
+    margin-right: 50px;
+  }
+  .item:last-child {
+    margin-right: 0px;
+  }
+}

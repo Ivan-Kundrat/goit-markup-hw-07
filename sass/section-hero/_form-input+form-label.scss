@@ -1,0 +1,7 @@
+.form-input:focus + .form-label,
+.form-input:not(:placeholder-shown) + .form-label {
+  transform: translateY(-32px);
+  color: $accent-color;
+  transition-duration: $transition-duration;
+  transition-timing-function: $transition-timing-function;
+}

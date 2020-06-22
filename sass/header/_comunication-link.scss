@@ -1,0 +1,9 @@
+.comunication .link {
+  transition-property: color;
+  transition-duration: $transition-duration;
+  transition-timing-function: $transition-timing-function;
+  &:hover,
+  &:focus {
+    color: $accent-color;
+  }
+}

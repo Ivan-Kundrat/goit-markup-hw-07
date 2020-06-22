@@ -1,0 +1,9 @@
+.form-item {
+  position: relative;
+  width: 448px;
+  margin-bottom: 28px;
+
+  &:last-child {
+    margin-bottom: 0px;
+  }
+}
