@@ -607,7 +607,7 @@ p {
   fill: var(--accent-color);
 }
 
-footer {
+.footer {
   background-color: var(--footer-bcg-color);
   color: #ffffff;
 
