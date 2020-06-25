@@ -1,7 +1,0 @@
-.form-input:focus + .form-textarea,
-.form-input:not(:placeholder-shown) + .form-textarea {
-  transform: translateY(-32px);
-  color: #2196f3;
-  transition-duration: $transition-duration;
-  transition-timing-function: $transition-timing-function;
-}
